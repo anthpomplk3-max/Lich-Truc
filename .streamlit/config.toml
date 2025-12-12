@@ -3,6 +3,7 @@ maxUploadSize = 200
 maxMessageSize = 200
 enableCORS = false
 enableXsrfProtection = false
+port = 8501
 
 [browser]
 serverAddress = "localhost"
